@@ -3,6 +3,7 @@ package com.politecnicomalaga.tmdbclient.model;
 /**
  * Clase para encapsular los datos de una peli o serie
  * Está diseñada siguiendo las indicaciones del JSON que nos da TMDB para cada peli o serie
+ * Esto se editó por Andrés. Para probar los cambios en git
  */
 public class MovieSerieItem {
 
